@@ -1,4 +1,4 @@
-# 🔗 LangChain Course RAG Application
+#  LangChain Course RAG Application
 
 A simple **Retrieval-Augmented Generation (RAG)** application built with **LangChain** that retrieves relevant course information from stored documents and uses a **Groq LLM** to generate answers.
 
