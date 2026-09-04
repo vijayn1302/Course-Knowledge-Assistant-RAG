@@ -131,7 +131,7 @@ pip install -U langchain langchain-core langchain-groq langchain-huggingface sen
 ## ▶️ Run the Application
 
 ```bash
-python LangChain_Retriever.py
+python Course_Knowledge_Assistant.py
 ```
 
 Then enter a question such as:
