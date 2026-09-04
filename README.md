@@ -128,24 +128,6 @@ Install the dependencies:
 pip install -U langchain langchain-core langchain-groq langchain-huggingface sentence-transformers python-dotenv
 ```
 
-## 🔐 API Key Setup
-
-Create a `.env` file in the project directory:
-
-```env
-GROQ_API_KEY=your_groq_api_key
-```
-
-Never upload your API key to GitHub.
-
-Add this to `.gitignore`:
-
-```text
-.env
-__pycache__/
-*.pyc
-```
-
 ## ▶️ Run the Application
 
 ```bash
